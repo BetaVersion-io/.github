@@ -1,3 +1,3 @@
 # .github
 
-*Community health files for the [@GitHub](https://github.com/github) organization*
+*Community health files for the [@BetaVersion.IO](https://github.com/betaversinio) organization*
